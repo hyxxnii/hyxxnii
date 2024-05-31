@@ -20,8 +20,9 @@ I'm Yeonghyeon Kim, a growing developer interested in artificial intelligence cl
 </div>
 <br>
 
-<div align="center">
-<h3>📚 STACKS</h3>
+<!-- <div align="center"> -->
+<!--<h3>📚 STACKS</h3>-->
+<!--
 <div align=center> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -42,5 +43,5 @@ I'm Yeonghyeon Kim, a growing developer interested in artificial intelligence cl
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-
+-->
 
